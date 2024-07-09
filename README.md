@@ -23,6 +23,7 @@ The Donut chart shows that the Food category(47,414 orders,90.21%)had more order
 5)The Donut chart above shows that the retail channel is generating the highest revenue at 48.56% , the distributor channel at 34.05%, and the online channel at 17.39%.
 6)The chart above shows that October was the month with the highest revenue and highest orders.
 7)The Barchart shows the 4th quartile generated the highest revenue.
+8)Aditionally Created Mobile View of the Given Dashboard along with Publishing the report on the PowerBI Service along with its Link.
 
 #CONCLUSION:
 According to the analysis above it shows that lilo food and beverages sales are consistently growing by each quartile.
